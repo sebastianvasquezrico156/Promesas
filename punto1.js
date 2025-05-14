@@ -10,3 +10,4 @@ const miPromesa = new Promise((resolve, reject) => {
 miPromesa.then((mensaje) => {
   console.log(mensaje); 
 });
+ 
